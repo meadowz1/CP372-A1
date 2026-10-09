@@ -1,0 +1,6 @@
+# One valid username per line. Lines starting with # are ignored.
+Alice
+Bob
+Charlie
+Dana
+Eli
