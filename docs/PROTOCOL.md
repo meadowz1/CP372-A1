@@ -1,6 +1,6 @@
 # CP372 Assignment 1 - Protocol Documentation
 
-**Group#:** ___  **Members:** ______, ______, ______, ______, ______
+**Group#:** 6  **Members:** Mike Bangar, Joshua Goudy, Anson Huang, Ali Lopez, Mahi Srivastav
 
 ## 1. System Overview
 
