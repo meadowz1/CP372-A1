@@ -4,8 +4,8 @@ A text-based client/server application built on the Python `socket` API. One
 client at a time can log in, send messages, list files, and upload/download
 files (text or binary) using a small custom application-layer protocol.
 
-**Group:** Group# ___  
-**Members:** ______, ______, ______, ______, ______
+**Group:** Group #6  
+**Members:** Mike Bangar, Joshua Goudy, Anson Huang, Ali Lopez, Mahi Srivastav
 
 ## Requirements
 - Python 3.x (no third-party packages, nothing to install)
